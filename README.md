@@ -19,17 +19,12 @@ I am an Architect transitioning into a Full-stack Development career, equipped w
 
 I approach each project with the mindset of an architect, meticulously planning and designing solutions that are both functional and elegant. My experience in project management, client communication, and collaboration with cross-functional teams ensures successful outcomes. With excellent communication skills and a knack for navigating complex project requirements, I thrive in environments where teamwork and coordination are paramount. I'm highly organized, adaptable, and committed to continuous learning, always eager to embrace new technologies and methodologies.  
   
-
 <br/>  
 
-
-## Rapidfire  
-<p>🔭 I’m currently working on [Shipfinity](https://github.com/shipfinity/shipfinity-app)  </p>
-<p>🌱 I’m currently learning React    </p>
-
+<p>🔭 I’m currently working on [Shipfinity](https://github.com/shipfinity/shipfinity-app)</p>
+<p>🌱 I’m currently learning React</p>
 
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -53,7 +48,6 @@ I approach each project with the mindset of an architect, meticulously planning 
 </div>  
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
