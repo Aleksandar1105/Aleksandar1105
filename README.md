@@ -24,19 +24,9 @@ I approach each project with the mindset of an architect, meticulously planning 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<p>🔭 I’m currently working on [Shipfinity](https://github.com/shipfinity/shipfinity-app)  </p>
+<p>🌱 I’m currently learning React    </p>
 
-- 🔭 I’m currently working on [Shipfinity](https://github.com/shipfinity/shipfinity-app)  
-  
-
-- 🌱 I’m currently learning React  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
