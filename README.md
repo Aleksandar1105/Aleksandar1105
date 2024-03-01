@@ -22,6 +22,7 @@ I approach each project with the mindset of an architect, meticulously planning 
 <br/>  
 
 🔭 I’m currently working on [Shipfinity](https://github.com/shipfinity/shipfinity-app)
+<br/>  
 🌱 I’m currently learning React
 
 <br/>  
